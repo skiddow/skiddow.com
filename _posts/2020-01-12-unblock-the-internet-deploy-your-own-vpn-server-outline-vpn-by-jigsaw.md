@@ -1,9 +1,9 @@
 ---
 layout: post
 title:  "Unblock the internet deploy your own VPN server outline VPN  by Jigsaw"
-categories: [ Jekyll, tutorial ]
-image: assets/images/1.jpg
+categories: [ VPN, OutlineVPN ]
+image: assets/images/outline-vpn.png
 ---
-This is changed. As I engage in the so-called "bull sessions" around and about the school, I too often find that most college men have a misconception of the purpose of education. Most of the "brethren" think that <a href="#">education should equip</a> them with the proper instruments of exploitation so that they can forever trample over the masses. Still others think that education should furnish them with noble ends rather than means to an end.
+Outline is a Shadowsocks  based VPN server which means hard to monitor traffic. Actually Shadowsocks and VPN works differently. Both Shadowsocks  and VPN encrypt data. But Shadowsocks is more lightweight. Shadowsocks uses normal HTTPS traffic with multiple TCP connections which ISP or a Government cannot monitor.
 
-It seems to me that education has a two-fold function to perform in the life of man and in society: the one is utility and the other is culture. Education must enable a man to become more efficient, to achieve with increasing facility the ligitimate goals of his life.
+Using Shadowsocks Nobody cannot block you. If ISP or Government Cooperation know your Outline server's IP, then they can. But who's gonna tell? There is no way to monitor Shadowsocks because all traffic going through HTTPS.
