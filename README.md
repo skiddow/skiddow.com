@@ -2,4 +2,4 @@
 
 ## view this site: https://skiddow.github.io/skiddow.com/
 
-#### source: https://github.com/wowthemesnet/affiliates-jekyll-theme
+#### Theme: https://github.com/wowthemesnet/affiliates-jekyll-theme
