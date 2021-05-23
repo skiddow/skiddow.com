@@ -1,3 +1,3 @@
-# Skidddow's web page
+# Skiddow's web page
 
 ### source: https://github.com/wowthemesnet/affiliates-jekyll-theme
