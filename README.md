@@ -1,3 +1,5 @@
 # Skiddow's web page
 
-### source: https://github.com/wowthemesnet/affiliates-jekyll-theme
+## view this site: https://skiddow.github.io/skiddow.com/
+
+#### source: https://github.com/wowthemesnet/affiliates-jekyll-theme
