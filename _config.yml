@@ -1,7 +1,7 @@
 title: "SKIDDOW"
 email:
 timezone: UTC
-baseurl: "/skiddow.com"
+baseurl: "/"
 permalink: "/:title/"
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/favicon.ico'
