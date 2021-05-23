@@ -1,5 +1,5 @@
-title: "Affiliates"
-email: wowthemesnet@gmail.com
+title: "SKIDDOW"
+email:
 timezone: UTC
 baseurl: "/skiddow.com"
 permalink: "/:title/"
@@ -7,7 +7,7 @@ logo: 'assets/images/logo.png'
 favicon: 'assets/images/favicon.ico'
 author: Sal
 paginate: 30
-disqus: 'demowebsite'
+disqus: ''
 locale: en_us
 lang: en_us
 feed_items: 10
@@ -48,7 +48,7 @@ social:
   twitter: https://twitter.com/skiddow_tw
 
 # Plugins
-plugins: 
+plugins:
 - jekyll-paginate
 - jekyll-sitemap
 - jekyll-feed
