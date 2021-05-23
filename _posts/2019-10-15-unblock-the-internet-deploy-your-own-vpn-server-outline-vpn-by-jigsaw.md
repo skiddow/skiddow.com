@@ -2,7 +2,7 @@
 layout: post
 title:  "Unblock the internet deploy your own VPN server - Outline VPN  by Jigsaw"
 categories: [ VPN, OutlineVPN ]
-image: assets/images/outline-vpn.png
+image: assets/images/post/outline-vpn.png
 ---
 Outline is a Shadowsocks  based VPN server which means hard to monitor traffic. Actually Shadowsocks and VPN works differently. Both Shadowsocks  and VPN encrypt data. But Shadowsocks is more lightweight. Shadowsocks uses normal HTTPS traffic with multiple TCP connections which ISP or a Government cannot monitor.
 
