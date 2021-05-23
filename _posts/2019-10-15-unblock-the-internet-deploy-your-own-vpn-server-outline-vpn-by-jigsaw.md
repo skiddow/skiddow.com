@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Unblock the internet deploy your own VPN server outline VPN  by Jigsaw"
+title:  "Unblock the internet deploy your own VPN server - Outline VPN  by Jigsaw"
 categories: [ VPN, OutlineVPN ]
 image: assets/images/outline-vpn.png
 ---
